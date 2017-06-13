@@ -1,2 +1,2 @@
 # Snake
-snake forlinux
+snake for linux
